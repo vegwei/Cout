@@ -1,4 +1,5 @@
 #include <iostream>
+#icnlude "1.h"
 using namespace std
 void out（）
 {
